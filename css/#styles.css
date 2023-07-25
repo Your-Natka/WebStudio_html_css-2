@@ -59,14 +59,8 @@ p {
     text-transform: uppercase;
     color: #4D5AE5;
     text-decoration: none;
-    
-    letter-spacing: 1px;
-    width: 44px;
-    font-style: normal;
-    line-height: 21px;
-    letter-spacing: 0.54px;
 }
-.logo-color {
+.logo-link.logo-2 {
     letter-spacing: 5px;
     width: 71px;
     color: #2E2F42;
