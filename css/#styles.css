@@ -68,7 +68,7 @@ p {
     color: #2E2F42;
     font-size: 18px;
 }
-.link.top-line {
+.link {
     color: var(--navyblue, #2E2F42);
     font-size: 16px;
     font-style: normal;
@@ -110,6 +110,9 @@ p {
     color: Hex, IRIS#4D5AE5,WHITE, #FFFFFF
      }
 /* Section 1 */
+.section-1 {
+    
+}
 /* Section 2 */
 /* Section 3 */
 /* Footer */
