@@ -110,8 +110,14 @@ p {
     color: Hex, IRIS#4D5AE5,WHITE, #FFFFFF
      }
 /* Section 1 */
-.section-1 {
-    
+.section-1.list {
+    color: var(--slate, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
 }
 /* Section 2 */
 /* Section 3 */
