@@ -5,12 +5,6 @@ body {
     background-color: #FFFFFF;
     text-decoration: none;
 }
-.body-slyle {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-    text-decoration: none;
-}
 h2 {
     color: var(--navyblue, #2E2F42);
     text-align: center;
