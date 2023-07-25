@@ -5,16 +5,6 @@ body {
     background-color: #FFFFFF;
     text-decoration: none;
 }
-h1 {
-    width: 496px;
-    color: var(--white, #FFF);
-    text-align: center;
-    font-size: 56px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 60px; 
-    letter-spacing: 1.12px;
-       }
 h2 {
     color: var(--navyblue, #2E2F42);
     text-align: center;
@@ -104,7 +94,7 @@ p {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    
+
     display: inline-flex;
     align-items: flex-start;
     border-radius: 4px;
