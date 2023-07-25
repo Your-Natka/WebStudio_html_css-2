@@ -109,12 +109,6 @@ p {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-
-    display: inline-flex;
-    align-items: flex-start;
-    border-radius: 4px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    color: Hex, IRIS#4D5AE5,WHITE, #FFFFFF
      }
 /* Section 1 */
 .section-1.list {
