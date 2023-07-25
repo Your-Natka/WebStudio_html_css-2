@@ -119,8 +119,6 @@ p {
 /* Footer */
 footer {
     background-color: #2E2F42;
-}
-.footer-text {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -128,12 +126,15 @@ footer {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-
     font-style: normal;
     width: 264px;
 }
-.footer-text.span-logo {
+
+.span-logo {
     color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+:root {
+    --color:var(-- #2e2f42);
 }
