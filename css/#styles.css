@@ -40,7 +40,8 @@ p {
     color: currentColor;
 }
 :root {
-    --ocean: #404bbf;
+    --cornflower: #E7E9FC
+    --cloud: #F4F4FD;
     --slate: #434455;
     --navyblue: #2e2f42;
     --primary-font: "Roboto", sans-serif;
