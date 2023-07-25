@@ -40,7 +40,7 @@ p {
     color: currentColor;
 }
 :root {
-    --cornflower: #E7E9FC
+    --cornflower: #E7E9FC;
     --cloud: #F4F4FD;
     --slate: #434455;
     --navyblue: #2e2f42;
@@ -53,7 +53,7 @@ p {
     --background-color: #FFFFFF 
 }
 /* Hedear */
- 
+
 .logo-link {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -64,7 +64,7 @@ p {
     color: #4D5AE5;
     text-decoration: none;
 }
-.logo-link.logo-2 {
+.link-logo.studio-color {
     letter-spacing: 5px;
     width: 71px;
     color: #2E2F42;
