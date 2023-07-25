@@ -1,4 +1,10 @@
 /* wraper */
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    text-decoration: none;
+}
 .body-slyle {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -37,9 +43,11 @@ p {
     color: currentColor;
 }
 :root {
+    --ocean: #404bbf;
+    --slate: #434455;
+    --navyblue: #2e2f42;
     --primary-font: "Roboto", sans-serif;
     --title-font: "Roboto", sans-serif;
-    --primary-black-color: #2E2F42;
     --primary-white-color: #ffffff;
     --primary-accent-color: #4D5AE5;
 }
