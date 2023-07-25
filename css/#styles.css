@@ -1,8 +1,11 @@
 /* wraper */
 body {
     font-family: "Roboto", sans-serif;
+    font-family: var(--title-font);
     color: #434455;
+    color: var(--color#434455);
     background-color: #FFFFFF;
+    background-color: var(--color#FFFFFF);
     text-decoration: none;
 }
 h2 {
