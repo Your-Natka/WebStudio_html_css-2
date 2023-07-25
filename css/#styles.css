@@ -1,0 +1,99 @@
+/* wraper */
+body {
+    color: #FFFFFF;
+    background: #FFF;
+     }
+h1 {
+    width: 496px;
+    color: var(--white, #FFF);
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; 
+    letter-spacing: 1.12px;
+       }
+h2 {
+    color: var(--navyblue, #2E2F42);
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px; 
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+     }
+h3 {
+    width: 264px;
+    color: var(--navyblue, #2E2F42);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.4px;
+     }
+p {
+    color: var(--slate, #434455);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+.post-link {
+    color: currentColor;
+}
+/* Hedear */
+
+.logo-link {
+    letter-spacing: 1px;
+    color: #4D5AE5;
+    line-height: 1.17;
+    width: 44px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.logo-logo.logo-2 {
+    letter-spacing: 5px;
+    width: 71px;
+    color: #2E2F42;
+    font-size: 18px;
+}
+.link.top-line {
+    color: var(--navyblue, #2E2F42);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
+}
+.address.list.contakt {
+    color: var(--slate, #434455);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
+}
+/* hero image */
+
+.discount-badge {
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 4px;
+    background: var(--iris, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: Hex, IRIS#4D5AE5,WHITE, #FFFFFF
+     }
+/* Section 1 */
+/* Section 2 */
+/* Section 3 */
+/* Footer */
