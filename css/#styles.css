@@ -1,9 +1,4 @@
 /* wraper */
-body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-     }
 h1 {
     width: 496px;
     color: var(--white, #FFF);
