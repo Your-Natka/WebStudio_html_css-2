@@ -28,6 +28,9 @@ h3 {
     letter-spacing: 0.4px;
      }
 p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
     color: var(--slate, #434455);
     text-align: center;
     font-size: 16px;
