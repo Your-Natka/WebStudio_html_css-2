@@ -85,14 +85,29 @@ p {
     line-height: 24px; 
 }
 /* hero image */
-
+.hero-text {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.hero-image {
+    background: var(--navyblue, #2E2F42);
+}
 .discount-badge {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    
     display: inline-flex;
-    padding: 16px 32px;
     align-items: flex-start;
-    gap: 10px;
     border-radius: 4px;
-    background: var(--iris, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: Hex, IRIS#4D5AE5,WHITE, #FFFFFF
      }
