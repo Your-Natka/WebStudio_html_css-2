@@ -115,6 +115,15 @@ p {
     line-height: 24px; 
     letter-spacing: 0.32px;
 }
+.list-inst.list-inst-text {
+    width: 264px;
+    color: var(--navyblue, #2E2F42);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.4px;
+}
 /* Section 2 */
 /* Section 3 */
 /* Footer */
