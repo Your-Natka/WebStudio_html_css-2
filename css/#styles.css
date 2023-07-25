@@ -53,7 +53,11 @@ p {
     --background-color: #FFFFFF 
 }
 /* Hedear */
-
+.list-nav {
+    border-bottom: 1px solid var(--cornflower, #E7E9FC);
+    background: var(--white, #FFF);
+    list-style: none;
+}
 .logo-link {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -69,6 +73,9 @@ p {
     width: 71px;
     color: #2E2F42;
     font-size: 18px;
+}
+.studio-color {
+    color: var(--#2e2f42);
 }
 .link {
     color: var(--navyblue, #2E2F42);
