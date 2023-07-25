@@ -92,15 +92,24 @@ p {
     line-height: 24px; 
 }
 /* hero image */
+.hero-image {
+    background-color: #2e2f42;
+    background: var(--navyblue, #2E2F42);
+}
 .hero-text {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-}
-.hero-image {
-    background: var(--navyblue, #2E2F42);
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; 
+    letter-spacing: 1.12px;
+    text-align: center;
+    color: var(--white, #FFF);
 }
 .discount-badge {
     background-color: #4D5AE5;
@@ -111,7 +120,21 @@ p {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-     }
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.64px;
+    color: var(--white, #FFF);
+}
+.discount-badge.hover {
+    background-color: #404BBF;
+}
+.discount-badge.focus {
+    background-color: #404BBF;
+}    
+
 /* Section 1 */
 .section-1.list {
     color: var(--slate, #434455);
