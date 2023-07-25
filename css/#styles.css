@@ -1,7 +1,8 @@
 /* wraper */
 body {
-    color: #FFFFFF;
-    background: #FFF;
+    font-family: "Roboto", sans-serif
+    color: #434455;
+    background-color: #FFFFFF;
      }
 h1 {
     width: 496px;
@@ -45,7 +46,9 @@ p {
     color: currentColor;
 }
 /* Hedear */
-
+hedear {
+    font-family: "Raleway", sans-serif;
+}
 .logo-link {
     letter-spacing: 1px;
     color: #4D5AE5;
