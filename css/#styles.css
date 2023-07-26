@@ -80,10 +80,10 @@ body {
   /* main page */
   
   .main-section {
-    background-color: var(--navyblue);
+    background-color: var(--navyblue, #2e2f42);
   }
   
-  .main-title {
+  .main-section.main-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
