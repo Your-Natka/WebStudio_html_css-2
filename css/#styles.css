@@ -166,8 +166,8 @@ a {
 /* Section 2 */
 /* Section 3 */
 /* Footer */
-footer {
-    background-color: #2e2f42;
+.footer {
+    background-color: var(--navyblue);
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -178,7 +178,14 @@ footer {
     font-style: normal;
     width: 264px;
 }
-
+.footer-paragraph {
+    line-height: 1.5;
+    color: var(--cloud);
+    letter-spacing: 0.02em;
+}
+.footer-logo-color {
+    color: var(--cloud);
+}
 .span-logo {
     color: #f4f4fd;
     line-height: 1.5;
