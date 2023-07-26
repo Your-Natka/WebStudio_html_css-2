@@ -111,11 +111,11 @@ a {
    color: #9747ff;
 }
 /* hero image */
-.hero-image {
+.section {
     background-color: #2e2f42;
     background: var(--navyblue, #2E2F42);
 }
-.hero-text {
+.section-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -155,7 +155,7 @@ a {
 }    
 
 /* Section 1 */
-.section-1.list {
+.section-1.lists {
     color: var(--slate, #434455);
     font-family: Roboto;
     font-size: 16px;
