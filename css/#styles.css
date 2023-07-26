@@ -15,7 +15,9 @@ body {
   /* header css */
   
   .list {
+    font-family: 'Roboto';
     list-style: none;
+    color: var(--navyblue, #2e2f42);
   }
   
   .link {
@@ -38,6 +40,8 @@ body {
   
   .nav {
     font-family: 'Roboto';
+    font-weight: 500;
+    color: #2e2f42;
   }
   
   .nav-link {
@@ -59,6 +63,7 @@ body {
     font-style: normal;
     font-weight: 400;
     letter-spacing: 0.32px;
+    color: #434455;
   }
   
   .address-link {
