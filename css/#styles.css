@@ -16,6 +16,11 @@ body {
     --ocean: #404bbf;
     --cloud: #f4f4fd;
   }
+.body {
+display: flex;
+flex-direction: column;
+
+}
 /* header */
   
 .list {
