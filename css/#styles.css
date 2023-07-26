@@ -1,3 +1,4 @@
+/* Top Line */
 body {
     font-family: 'Roboto', sans-serif; 
     font-family: var(--font-family);
@@ -7,7 +8,7 @@ body {
     background-color: var(--white);
   }
   
-  :root {
+:root {
     --navyblue: #2e2f42;
     --iris: #4d5ae5;
     --slate: #434455;
@@ -15,19 +16,19 @@ body {
     --ocean: #404bbf;
     --cloud: #f4f4fd;
   }
-  /* header css */
+/* header */
   
-  .list {
+.list {
     font-family: 'Roboto';
     list-style: none;
     color: var(--navyblue, #2e2f42);
   }
   
-  .link {
+.link {
     text-decoration: none;
   }
   
-  .logo {
+.logo {
     color: var(--iris);
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -37,17 +38,17 @@ body {
     text-transform: uppercase;
   }
   
-  .studio-color {
+.studio-color {
     color: var(--navyblue);
   }
   
-  .nav {
+.nav {
     font-family: 'Roboto';
     font-weight: 500;
     color: #2e2f42;
   }
   
-  .nav-link {
+.nav-link {
     color: var(--navyblue);
     font-weight: 500;
     font-size: 16px;
@@ -55,12 +56,12 @@ body {
     letter-spacing: 0.02em;
   }
   
-  .nav-link:hover,
-  .nav-link:focus {
+.nav-link:hover,
+.nav-link:focus {
     color: var(--ocean);
   }
   
-  .address {
+.address {
     font-family: 'Roboto';
     font-size: 16px;
     font-style: normal;
@@ -69,31 +70,31 @@ body {
     color: #434455;
   }
   
-  .address-link {
+.address-link {
     color: var(--slate);
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
   
-  .address-link:hover,
-  .address-link:focus {
+.address-link:hover,
+.address-link:focus {
     color: var(--ocean);
   }
   
-  /* main page */
+/* main page */
   
-  .main-section {
+.main-section {
     background-color: var(--navyblue, #2e2f42);
   }
   
-  .main-section.main-title {
+.main-section.main-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white);
   }
-  .main-button {
+.main-button {
     background-color: var(--iris);
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -103,13 +104,13 @@ body {
     color: var(--white);
   }
   
-  .main-button:hover,
-  .main-button:focus {
+.main-button:hover,
+.main-button:focus {
     background-color: var(--ocean);
     cursor: pointer;
   }
   
-  .sub-title {
+.sub-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -117,14 +118,14 @@ body {
     color: var(--navyblue);
   }
   
-  .main-paragraph {
+.main-paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
   }
   
-  .title-section-duo {
+.title-section-duo {
     text-align: center;
     font-size: 36px;
     line-height: 1.11;
@@ -133,31 +134,32 @@ body {
     color: var(--navyblue);
   }
   
-  .main-section-four {
+.main-section-four {
     background-color: var(--cloud);
   }
   
-  .section-four-items {
+.section-four-items {
     background-color: #ffffff;
   }
   
-  /* footer  */
+/* footer  */
   
-  .footer {
+.footer {
     background-color: var(--navyblue);
   }
   
-  .footer-paragraph {
+.footer-paragraph {
     line-height: 1.5;
     color: var(--cloud);
     letter-spacing: 0.02em;
   }
   
-  .footer-logo-color {
+.footer-logo-color {
     color: var(--cloud);
   }
-  /* portfolio main  */
-  .btn-menu {
+
+/* portfolio main  */
+.btn-menu {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -167,14 +169,14 @@ body {
     background-color: var(--cloud);
   }
   
-  .btn-menu:focus,
-  .btn-menu:hover {
+.btn-menu:focus,
+.btn-menu:hover {
     color: #ffffff;
     background-color: #404bbf;
     cursor: pointer;
   }
   
-  .portfolio-title {
+.portfolio-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -182,7 +184,7 @@ body {
     color: var(--navyblue);
   }
   
-  .portfolio-paragraph {
+.portfolio-paragraph {
     color: var(--slate);
     font-size: 16px;
     font-weight: 400;
