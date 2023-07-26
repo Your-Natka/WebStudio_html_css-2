@@ -84,6 +84,7 @@ p {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
+    font-style: normal;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -91,15 +92,21 @@ p {
     text-decoration: none;
 }
 .link-logo.studio-color {
+    color: var(--navyblue, #2E2F42);
+    font-family: 'Raleway';
+    font-weight: 800;
+    line-height: 21px;
     letter-spacing: 5px;
     width: 71px;
     color: #2E2F42;
     font-size: 18px;
+    text-transform: uppercase;
 }
 .studio-color {
     color: var(--#2e2f42);
 }
 .link {
+    font-family: 'Roboto';
     color: var(--navyblue, #2E2F42);
     font-size: 16px;
     font-style: normal;
@@ -107,7 +114,8 @@ p {
     line-height: 24px; 
 }
 .address.list.contakt {
-    color: var(--slate, #000000);
+    font-family: 'Roboto';
+    color: var(--slate, #434455);
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
