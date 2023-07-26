@@ -10,16 +10,7 @@
   --ocean: #404bbf;
   --cloud: #f4f4fd;
 }
-h1 {
-  font-family: Roboto;
-  font-size: 56px;
-  text-align: center;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  color: #ffffff;
-  color: var(--white, #FFF);
-  
-}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -147,6 +138,15 @@ img {
     letter-spacing: 0.02em;
     color: var(--white);
   }
+.main-title {
+  font-family: Roboto;
+  font-size: 56px;
+  text-align: center;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  color: var(--white, #FFF);
+}
 .main-button {
     background-color: var(--iris);
     font-family: 'Roboto', sans-serif;
