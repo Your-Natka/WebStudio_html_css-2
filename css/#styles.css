@@ -1,20 +1,16 @@
 /* wraper */
 body {
     font-family: 'Roboto', sans-serif;
-    font-family: var(--title-font);
     color: #434455;
-    color: var(--color#434455);
     background-color: #ffffff;
-    background-color: var(--color#ffffff);
-    text-decoration: none;
 }
 :root {
     --navyblue: #2e2f42;
-    --iris: #4d5ae5;
-    --slate: #434455;
-    --white: #ffffff;
-    --ocean: #404bbf;
-    --cloud: #f4f4fd;
+   --iris: #4d5ae5;
+   --slate: #434455;
+   --white: #fff;
+   --ocean: #404bbf;
+   --cloud: #f4f4fd;
 }
 p {
     line-height: 1.5;
@@ -104,6 +100,9 @@ p {
 }
 a {
     color: var(--navyblue);
+}
+.list {
+    list-style: none;
 }
 .list-nav.link:hover,
 .list-nav.link:focus {
