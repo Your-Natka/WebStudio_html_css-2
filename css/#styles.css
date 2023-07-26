@@ -1,11 +1,8 @@
 /* Top Line */
-body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
-}
-
 :root {
+  --font-family: 'Roboto', sans-serif;
+  --font-family: 'Raleway', sans-serif;
+  --font-weight: 400, 500, 700, 800;
   --navyblue: #2e2f42;
   --iris: #4d5ae5;
   --slate: #434455;
@@ -13,6 +10,15 @@ body {
   --ocean: #404bbf;
   --cloud: #f4f4fd;
 }
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+
 .list {
   list-style: none;
 }
