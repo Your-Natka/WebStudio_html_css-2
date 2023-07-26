@@ -121,10 +121,7 @@ a {
    color: #9747ff;
 }
 /* hero image */
-.section {
-    background-color: #2e2f42;
-    background: var(--navyblue, #2E2F42);
-}
+
 .section-title {
     font-size: 56px;
     line-height: 1.07;
