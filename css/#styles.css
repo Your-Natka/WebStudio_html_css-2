@@ -166,13 +166,11 @@ img {
     color: var(--navyblue);
   }
   
-.main-section-4 {
-    display: flex;
-    flex-direction: column;
-    background-color: #f4f4fd, var(--cloud);
+  .main-section-four {
+    background-color: var(--cloud);
   }
   
-.section-4-items {
+  .section-four-items {
     background-color: #ffffff;
   }
   
