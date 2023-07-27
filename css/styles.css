@@ -30,15 +30,10 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  margin-right: 76px;
 }
 
 .studio-color {
   color: var(--navyblue);
-}
-
-.nav-list:last-child {
-  margin-right: 0;
 }
 
 .nav-link {
@@ -59,10 +54,6 @@ body {
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0.32px;
-}
-
-.address-items:last-child {
-  margin-right: 0;
 }
 
 .address-link {
@@ -97,9 +88,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--white);
-  display: block;
   min-width: 169px;
-  height: 56px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -118,15 +107,10 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navyblue);
-  margin-bottom: 8px;
 }
 
 .visually-hidden {
   visibility: hidden;
-}
-
-.list-two:last-child {
-  margin-right: 0;
 }
 
 .main-paragraph {
