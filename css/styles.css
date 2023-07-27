@@ -38,6 +38,9 @@ img {
 /* header css */
 
 .header {
+  align-items: center;
+  display: flex;
+  height: 72px;
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -155,6 +158,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--white);
+    padding: 48px;
   }
   
 .main-button:hover,
@@ -172,6 +176,9 @@ img {
   }
   
 .main-paragraph {
+    flex-direction: column;
+    display: flex;
+    align-items: flex-start;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -204,6 +211,7 @@ img {
   }
   
 .footer-paragraph {
+    height: 312px;
     line-height: 1.5;
     color: var(--cloud);
     letter-spacing: 0.02em;
