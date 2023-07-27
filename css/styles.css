@@ -133,6 +133,13 @@ body {
   background-color: var(--cloud);
 }
 
+.title-section-duo{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--#2e2f42);
+}
 .section-four-items {
   background-color: #ffffff;
 }
